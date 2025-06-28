@@ -10,10 +10,6 @@ This project was built as part of the [freeCodeCamp](https://www.freecodecamp.or
 - CSS3
 - Flexbox & Media Queries
 
-## 📸 Screenshot
-
-![Tribute Page Screenshot](./screenshot.png)
-
 ## 🔗 Live Preview
 
 [View it live on GitHub Pages](https://your-username.github.io/dr-norman-borlaug-tribute-page)
