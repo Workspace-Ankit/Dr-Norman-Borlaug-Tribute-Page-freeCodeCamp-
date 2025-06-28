@@ -12,7 +12,10 @@ This project was built as part of the [freeCodeCamp](https://www.freecodecamp.or
 
 ## 🔗 Live Preview
 
-[View it live on GitHub Pages](https://your-username.github.io/dr-norman-borlaug-tribute-page)
+### 🔗 Live Demo
+
+[View Live Page](https://workspace-ankit.github.io/Dr-Norman-Borlaug-Tribute-Page-freeCodeCamp-/)
+
 
 ## 📄 License
 
